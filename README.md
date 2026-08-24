@@ -25,4 +25,4 @@ Python · MATLAB · Computational Implementation
 
 [Google Scholar](https://scholar.google.com/citations?user=7nV_C3wAAAAJ&hl=en) · 
 [LinkedIn](https://www.linkedin.com/in/amirhossein-tahmouresi/)·
-[Email](ce.tahmoursi@gmail.com)
+[Email](mailto:ce.tahmoursi@gmail.com)
