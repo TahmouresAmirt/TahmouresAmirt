@@ -25,4 +25,4 @@ Python · MATLAB · Computational Implementation
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7nV_C3wAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-tahmouresi/)
-[Email](mailto:ce.tahmoursi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ce.tahmoursi%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ce.tahmoursi@gmail.com)
