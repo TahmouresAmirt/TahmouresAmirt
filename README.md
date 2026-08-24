@@ -24,5 +24,5 @@ Python · MATLAB · Computational Implementation
 ## Connect
 
 [Google Scholar](https://scholar.google.com/citations?user=7nV_C3wAAAAJ&hl=en) · 
-[LinkedIn]([...](https://www.linkedin.com/in/amirhossein-tahmouresi/) ·
+[LinkedIn](https://www.linkedin.com/in/amirhossein-tahmouresi/)·
 [Email](ce.tahmoursi@gmail.com)
